@@ -108,9 +108,9 @@
     "name": "DeepseekCoder-5.7B",
     "provider_url": "https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-base-GGUF",
     "urls": [
-      "https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-base-GGUF/blob/main/deepseek-coder-5.7bmqa-base.Q4_K_M.gguf"
+      "https://huggingface.co/TheBloke/deepseek-coder-5.7bmqa-base-GGUF/resolve/main/deepseek-coder-5.7bmqa-base.Q5_K_M.gguf"
     ],
-    "sha256": "f9a6138c293cc26274ca95db248537a99cd25a1efbc391a5ee86739a1549ba59"
+    "sha256": "740a3b7fc07df9b943475c227182d21ec4ec2f15934b7d0cb7ffb36bacd336ec"
   },
   {
     "license_name": "Deepseek License",
